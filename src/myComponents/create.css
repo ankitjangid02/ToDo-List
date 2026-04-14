@@ -1,0 +1,19 @@
+.create{
+    margin-right: 20px;
+    width: 200px;
+    
+}
+
+.butt .btn{
+    font-size: 20px;
+    width: 150px;
+    height:50px;
+    
+}
+.container.my-3{
+    font-size: 20px;
+    background-color: bisque;
+}
+.container.my-3 h3{
+    font-size: 50px;
+}
